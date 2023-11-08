@@ -14,7 +14,7 @@ const AboutPage = () => {
             <div className="font-bold text-xl md:text-2xl lg:text-xl">About Me</div>
             <div className="md:flex-row md:items-center md:pl-8 md:my-5 flex flex-col items-center">
               <div className="">
-                  <img src={foto_profile} alt="foto dimas" className="w-48 h-48 md:w-40 md:h-40 object-cover object-top 
+                  <img src="https://storage.googleapis.com/personal_image_dicoding_dimas/dimas_fix.jpeg" alt="foto dimas" className="w-48 h-48 md:w-40 md:h-40 object-cover object-top 
                   rounded-full"/>
               </div>
               <div className="mt-3 md:mt-0 text-justify md:w-3/4 md:ml-5 md:text-lg lg:text-sm">

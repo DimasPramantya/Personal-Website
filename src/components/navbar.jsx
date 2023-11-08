@@ -47,7 +47,7 @@ const Navbar = () => {
             </div>
             <div className="flex gap-x-3 items-center">
                 <Link className="flex" to="">
-                    <img src={github_image} alt="" className="w-7 sm:w-8 lg:w-6" />
+                    <img src="https://storage.googleapis.com/personal_image_dicoding_dimas/github-mark-white.png" alt="" className="w-7 sm:w-8 lg:w-6" />
                 </Link>
                 <Link className="flex" to="">
                     <iconify-icon icon="skill-icons:linkedin" width="1.5rem" />
