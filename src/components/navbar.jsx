@@ -10,7 +10,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="lg:mx-48 sm:mx-28 mx-6 flex py-3 my-5 items-center justify-between">
+        <nav className="lg:mx-56 sm:mx-28 mx-6 flex py-3 my-5 items-center justify-between">
             <div className="text-primaryGold font-bold text-xl">
                 DimasPramantya
             </div>
