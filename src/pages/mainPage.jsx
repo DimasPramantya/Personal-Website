@@ -34,7 +34,7 @@ const MainPage = () => {
                             </div>
                         </article>
                         <div>
-                            <img src="https://storage.googleapis.com/personal_image_dicoding_dimas/dimas_fix.jpeg" alt="foto dimas" className="lg:w-64 lg:h-64 sm:w-128 sm:h-128 w-72 h-72 object-cover object-top 
+                            <img src="https://storage.googleapis.com/personal_image_dicoding_dimas/dimas_fix.jpeg" alt="foto dimas" className="lg:w-80 lg:h-80 sm:w-128 sm:h-128 w-72 h-72 object-cover object-top 
                         rounded-full circle-shadow border-4 border-primaryGold"/>
                         </div>
                     </section>

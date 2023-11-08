@@ -15,7 +15,7 @@ const FooterNavbar = ()=>{
                 <div>
                     <Link to='/' 
                         onClick={() => handleItemClick("/")}
-                        className={`text-white text-xs border-b-4 border-secondaryGold
+                        className={`text-white text-xs 
                         ${activeItem === "/" ? "border-b-4 border-secondaryGold font-bold" : "font-semibold"}`}>
                         Home
                     </Link>
@@ -23,12 +23,12 @@ const FooterNavbar = ()=>{
                 <div>
                     <Link to='/about' 
                         onClick={() => handleItemClick("/")}
-                        className={`text-white text-xs border-b-4 border-secondaryGold
+                        className={`text-white text-xs 
                         ${activeItem === "/about" ? "border-b-4 border-secondaryGold font-bold" : "font-semibold"}`}>
                         About
                     </Link>
                 </div>
-                <div><Link className="font-semibold text-slate-200 text-xs">Portofolio</Link></div>
+                <div><Link className="font-semibold text-slate-700 text-xs">Portofolio</Link></div>
             </div>
         </>
     )

@@ -16,10 +16,11 @@ const AboutPage = () => {
                   <img src="https://storage.googleapis.com/personal_image_dicoding_dimas/dimas_fix.jpeg" alt="foto dimas" className="w-48 h-48 md:w-40 md:h-40 object-cover object-top 
                   rounded-full"/>
               </div>
-              <div className="mt-3 md:mt-0 text-justify md:w-3/4 md:ml-5 md:text-lg lg:text-sm">
+              <div className="mt-3 md:mt-0 text-justify md:w-3/4 md:ml-5 md:text-lg">
                 Hello World! This is my website profile. I'm I Gusti Ketut Dimas Pramantya and a full-stack web 
-                developer with a passion for backend development. MERN (Mongo, Express, React, 
-                Node) is my go-to tech stack, and I'm always eager to explore new possibilities.
+                developer with a passion for backend development.  I'm particularly fascinated by the 
+                process of crafting REST APIs, which power the interactions between different components of a web application. 
+                MERN (Mongo, Express, React, Node) is my go-to tech stack, and I'm always eager to explore new possibilities.
               </div>
             </div>
           </div>
