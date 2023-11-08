@@ -1,5 +1,4 @@
 import React from "react";
-import foto_profile from '../assets/dimas_fix.jpeg'
 import Navbar from "../components/navbar";
 import Typed from 'react-typed'
 import FooterNavbar from "../components/footer-nav";

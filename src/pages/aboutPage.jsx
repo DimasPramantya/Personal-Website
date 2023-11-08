@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "../components/navbar";
 import FooterNavbar from "../components/footer-nav";
-import foto_profile from '../assets/dimas_fix.jpeg'
 import TechStackCard from "../components/tech_stack";
 
 const AboutPage = () => {

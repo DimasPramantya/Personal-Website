@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-import github_image from '../assets/github-mark-white.png'
 
 const Navbar = () => {
     const currentLocation = useLocation();
